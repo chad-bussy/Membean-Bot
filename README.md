@@ -1,3 +1,4 @@
+git remote add Membean <https://membean.com/dashboard>
 var interval = {
 "test": "",
 "click": "",
